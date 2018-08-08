@@ -1,5 +1,22 @@
+body {
+  background-color:
+}
+
 .labelContainer {
-  /* text-align: right;
-  max-width: 300px; */
-  display: inline;
+  display: inline-block;
+}
+
+.sizer {
+  max-width: 250px;
+  height: 100px;
+  background-color: grey;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  padding: 10px;
+  border: black;
+}
+
+.bold {
+  font-weight: bolder;
+  font-size: 20px;
 }
